@@ -12,10 +12,10 @@ Test App here: https://tdsapp.herokuapp.com/
 
 STEPS:
 
-1.Choose the use-case
-2.Get the dataset prepared, build the model and choose the best model
-3.Create a web App using Flask
-4.Commit the code to Github
-5.Create account on Heroku
-6.Link Heroku account to Github account
-7.Deploy and test the App
+        1.Choose the use-case
+        2.Get the dataset prepared, build the model and choose the best model
+        3.Create a web App using Flask
+        4.Commit the code to Github
+        5.Create account on Heroku
+        6.Link Heroku account to Github account
+        7.Deploy and test the App
